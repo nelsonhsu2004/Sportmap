@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### vita remark 
+### remark 
 #STEP 1. 在 GitHub 建立空白 Repository	
 #•  到 GitHub → 右上角 + → New repository
 #•  Repository name：輸入你的專案名稱
