@@ -1,0 +1,18 @@
+name = "sportmap"
+main = "server/server.js"
+type = "javascript"
+account_id = "YOUR_ACCOUNT_ID"  # 替換成你的 Cloudflare Account ID
+workers_dev = true
+route = ""
+
+[env.production]
+name = "sportmap-production"
+route = "YOUR_DOMAIN/*"
+zone_id = "YOUR_ZONE_ID"  # 如果使用自訂域名，填入這個
+
+[build]
+command = "npm install && npm run build"
+cwd = "./"
+
+[[build.upload_rules]]
+type = "CompiledContentFallthrough"

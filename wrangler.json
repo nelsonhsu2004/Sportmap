@@ -1,0 +1,19 @@
+{
+  "build": {
+    "command": "npm run build",
+    "cwd": "/",
+    "destination": "build"
+  },
+  "env": {
+    "production": {
+      "vars": {
+        "REACT_APP_API_URL": "https://sportmap-api.YOUR_DOMAIN.workers.dev"
+      }
+    },
+    "preview": {
+      "vars": {
+        "REACT_APP_API_URL": "http://localhost:5000"
+      }
+    }
+  }
+}
