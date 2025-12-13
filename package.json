@@ -44,5 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://industry.sports.gov.taipei/"
+  "proxy": "https://industry.sports.gov.taipei/",
+  "devDependencies": {
+    "wrangler": "^4.54.0"
+  }
 }
