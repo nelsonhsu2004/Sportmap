@@ -2,6 +2,7 @@
   "name": "meterialapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nelsonhsu2004.github.io/Sportmap",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -23,8 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy:pages": "npm run build && wrangler pages deploy build",
-    "deploy:workers": "wrangler deploy"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +47,7 @@
   },
   "proxy": "https://industry.sports.gov.taipei/",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "wrangler": "^4.54.0"
   }
 }
