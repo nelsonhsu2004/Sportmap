@@ -1,0 +1,93 @@
+[
+  {
+    "id": "decathlon_neihu",
+    "name": "Decathlon Taipei Neihu Store",
+    "address": "No. 38號, Lane 128, Xinhuyi Rd, Neihu District, Taipei City, Taiwan 114",
+    "lat": 25.0787,
+    "lng": 121.5748
+  },
+  {
+    "id": "nike_sogo_fuxing",
+    "name": "NIKE Sogo Fuxing Store",
+    "address": "Section 3, Zhongxiao E Rd, Daan District, Taipei City, Taiwan 106", 
+    "lat": 25.04147,
+    "lng": 121.54327
+  },
+  {
+    "id": "nike_songgao_jordan",
+    "name": "Nike 經銷商門市 - Jordan 16 Songgao",
+    "address": "Songgao Rd, Xinyi District, Taipei City, Taiwan", 
+    "lat": 25.03225,
+    "lng": 121.56492
+  },
+  {
+    "id": "nike_taipei_minsheng",
+    "name": "NIKE 台北門市",
+    "address": "Section 3, Minsheng E Rd, Zhongshan District, Taipei City, Taiwan",
+    "lat": 25.0621,
+    "lng": 121.5403
+  },
+  {
+    "id": "nike_ximen_redhouse",
+    "name": "Nike 尚智西門紅樓店",
+    "address": "Chengdu Rd, Wanhua District, Taipei City, Taiwan",
+    "lat": 25.045,
+    "lng": 121.511
+  },
+  {
+    "id": "adidas_xinyi_a8",
+    "name": "adidas 信義新光A8 專業運動門市",
+    "address": "B1, No. 12, Songgao Rd, Xinyi District, Taipei City, Taiwan 110",
+    "lat": 25.0375,
+    "lng": 121.5661
+  },
+  {
+    "id": "adidas_performance_nanxi",
+    "name": "adidas Performance Nanxi Store",
+    "address": "No. 27, Nanjing W Rd, Datong District, Taipei City, Taiwan 103",
+    "lat": 25.0525,
+    "lng": 121.5195
+  },
+  {
+    "id": "adidas_originals_zhongxiao",
+    "name": "adidas Originals 忠孝經典門市",
+    "address": "No. 189, Section 4, Zhongxiao E Rd, Daan District, Taipei City, Taiwan 106",
+    "lat": 25.0419,
+    "lng": 121.5430
+  },
+  {
+    "id": "momentum_mrt_emei",
+    "name": "Momentum 摩曼頓花花 NIKE Jordan 體驗店",
+    "address": "Emei St, Wanhua District, Taipei City, Taiwan",
+    "lat": 25.044,
+    "lng": 121.508
+  },
+  {
+    "id": "jordan_ximending",
+    "name": "Jordan Ximending Store",
+    "address": "No. 92, Kunming St, Wanhua District, Taipei City, Taiwan 108",
+    "lat": 25.0427,
+    "lng": 121.5087
+  },
+  {
+    "id": "asics_flagship",
+    "name": "亞瑟士 旗艦店 ASICS",
+    "address": "No. 165, Section 1, Dunhua S Rd, Daan District, Taipei City, Taiwan",
+    "lat": 25.0408,
+    "lng": 121.5446
+  },
+  {
+    "id": "flyup_daan",
+    "name": "飛揚體育用品社 大安店",
+    "address": "Section 3, Keelung Rd, Daan District, Taipei City, Taiwan",
+    "lat": 25.0262,
+    "lng": 121.5515
+  },
+  {
+    "id": "flyup_shilin",
+    "name": "飛揚體育用品社 士林店",
+    "address": "Section 4, Chengde Rd, Shilin District, Taipei City, Taiwan",
+    "lat": 25.0919,
+    "lng": 121.5247
+  }
+]
