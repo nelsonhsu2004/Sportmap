@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sportmap/static/css/main.6f5a5e3f.css",
-    "main.js": "/Sportmap/static/js/main.555ebdef.js",
+    "main.js": "/Sportmap/static/js/main.4a8afc59.js",
     "static/js/453.7b86ce93.chunk.js": "/Sportmap/static/js/453.7b86ce93.chunk.js",
     "index.html": "/Sportmap/index.html",
     "main.6f5a5e3f.css.map": "/Sportmap/static/css/main.6f5a5e3f.css.map",
-    "main.555ebdef.js.map": "/Sportmap/static/js/main.555ebdef.js.map",
+    "main.4a8afc59.js.map": "/Sportmap/static/js/main.4a8afc59.js.map",
     "453.7b86ce93.chunk.js.map": "/Sportmap/static/js/453.7b86ce93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f5a5e3f.css",
-    "static/js/main.555ebdef.js"
+    "static/js/main.4a8afc59.js"
   ]
 }
